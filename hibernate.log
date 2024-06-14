@@ -35,3 +35,10 @@ The last packet sent successfully to the server was 0 milliseconds ago. The driv
 2024-06-14 15:54:47,211 [AWT-EventQueue-0] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Column 'id_usuario_fk' cannot be null
 2024-06-14 15:59:44,403 [AWT-EventQueue-0] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Column 'id_usuario_fk' cannot be null
 2024-06-14 16:03:03,677 [AWT-EventQueue-0] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Column 'id_usuario_fk' cannot be null
+2024-06-14 17:40:05,403 [AWT-EventQueue-0] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Table 'integrador02.produtos' doesn't exist
+2024-06-14 17:40:05,417 [AWT-EventQueue-0] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Table 'integrador02.produtos' doesn't exist
+2024-06-14 17:40:05,424 [AWT-EventQueue-0] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Table 'integrador02.produtos' doesn't exist
+2024-06-14 17:41:03,161 [AWT-EventQueue-0] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Table 'integrador02.produtos' doesn't exist
+2024-06-14 17:45:19,455 [main] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Table 'integrador02.usuarios' doesn't exist
+2024-06-14 17:48:56,893 [main] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Table 'integrador02.produtos' doesn't exist
+2024-06-14 17:54:52,863 [main] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Table 'integrador02.forma_pagamento' doesn't exist
